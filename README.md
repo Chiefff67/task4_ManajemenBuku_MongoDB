@@ -9,7 +9,7 @@ how to run:
 - npm start
 - open postman/browser
 - db :mongodb+srv://bocahrkr:gEAGFOLCGtS5WffA@productzilla.2a2mu.mongodb.net/
-- Tambahkan diheader key:Authorization, value:Bearer <Token>
+- Tambahkan diheader key:Authorization, value:Bearer<Token>
 - username: admin ,password:123
 
 ![Screenshot 2024-10-31 192457](https://github.com/user-attachments/assets/14ac8d5f-e761-4a7d-a104-a222050e0af6)
